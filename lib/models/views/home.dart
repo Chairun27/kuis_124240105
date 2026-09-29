@@ -134,7 +134,6 @@ class HomePage extends StatelessWidget {
                     ),
                     const SizedBox(height: 2),
 
-                    // const SizedBox(height: 12), 
                     // Tahun mobil 
                     Text(
                       "${car.year}",
